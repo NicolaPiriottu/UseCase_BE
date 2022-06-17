@@ -1,7 +1,7 @@
 export const simpleResponse = {
   heading: {
-    title: "Titolo",
-    subtitle: "Sottotitolo"
+    title: "The Power of Now",
+    subtitle: "Learn to listen to people. You will listen to yourself."
   },
   image: "https://img.freepik.com/premium-vector/hand-drawn-winter-landscape-with-mountains_23-2149190141.jpg?w=400",
   body: {
