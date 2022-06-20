@@ -29,9 +29,7 @@ export const galleryResponse = {
     images: [
       "https://sites.google.com/site/gattiamici/_/rsrc/1468752127292/gatti-page/gatti%2001.jpg",
       "https://sites.google.com/site/gattiamici/gatti/catus.JPG?attredirects=0",
-      "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cat_paw_%28cloudzilla%29.jpg/180px-Cat_paw_%28cloudzilla%29.jpg",
       "https://sites.google.com/site/gattiamici/cura-e-accessori/gatti%20access.jpg?attredirects=0"
-  
     ]
   }
 };
