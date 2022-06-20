@@ -16,10 +16,11 @@ export const galleryResponse = {
   title: {
     title: "Animals of the world",
   },
-  sub: {
+  
+  subtitle: {
     subtitle: "Today we focus on:"
   },
-  
+
   description: {
     title: "Cats",
     partOne: "The cat (Felis catus) is a domestic species of small carnivorous mammal.",
